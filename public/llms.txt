@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-ca21c479.zappy5.app
+https://example.com
 מחפשים מסעדה מיוחדת? פיצה של שוריק מגישה לכם פיצה חמה עם תוספות גורמה כמו פטריות טריות וזיתים שחורים וירוקים. בואו להתפנק בטעם מנצח עוד היום!
 
 ### תפריט
-https://-ca21c479.zappy5.app/menu
+https://example.com/menu
 התפריט שלנו מפתה עם שילובים מנצחים: פטריות מוקפצות, זיתים שחורים וירוקים על בצק אוורירי. גלו את המנה שתכבוש אתכם והזמינו עכשיו!
 
 ### אודות
-https://-ca21c479.zappy5.app/about
+https://example.com/about
 פיצה של שוריק נולדה מאהבה לחומרי גלם איכותיים ואווירה ביתית. קראו על המסע שלנו והתאהבו בכל ביס. ביקור אחד ואתם חלק מהמשפחה!
 
 ### גלריה
-https://-ca21c479.zappy5.app/gallery
+https://example.com/gallery
 גלריה חיה של הפיצות שלנו: גבינה מותכת, פטריות נוטפות וזיתים מבריקים. כל תמונה מספרת סיפור של טעם. היכנסו ופתחו את התיאבון!
 
 ### צור קשר
-https://-ca21c479.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה או חשק לפיצה? צרו קשר עם פיצה של שוריק להזמנות, אירועים או סתם להגיד שלום. אנחנו תמיד זמינים לפנק אתכם בטעם מושלם!
 
 ### תודה שפניתם אלינו | פיצה של שוריק
-https://-ca21c479.zappy5.app/thank-you
+https://example.com/thank-you
 פיצה של שוריק - תודה שפניתם אלינו | פיצה של שוריק
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ca21c479.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ca21c479.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ca21c479.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-ca21c479.zappy5.app/contact
-- Endpoint: https://-ca21c479.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Restaurant
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ca21c479.zappy5.app/sitemap.xml
-- Robots: https://-ca21c479.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ca21c479.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
