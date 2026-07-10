@@ -1,0 +1,86 @@
+# פיצה של שוריק — Generative Engine Optimization Map
+
+> A pizza restaurant called 'Shoorik's Pizza' with a warm and inviting personality. The menu highlights specialty toppings including mushrooms and a variety of olives (black and green). The brand has a casual, appetizing vibe with a focus on quality ingredients and a visually appealing presentation.
+
+---
+
+## Pages
+
+### בית
+https://-ca21c479.zappy5.app
+מחפשים מסעדה מיוחדת? פיצה של שוריק מגישה לכם פיצה חמה עם תוספות גורמה כמו פטריות טריות וזיתים שחורים וירוקים. בואו להתפנק בטעם מנצח עוד היום!
+
+### תפריט
+https://-ca21c479.zappy5.app/menu
+התפריט שלנו מפתה עם שילובים מנצחים: פטריות מוקפצות, זיתים שחורים וירוקים על בצק אוורירי. גלו את המנה שתכבוש אתכם והזמינו עכשיו!
+
+### אודות
+https://-ca21c479.zappy5.app/about
+פיצה של שוריק נולדה מאהבה לחומרי גלם איכותיים ואווירה ביתית. קראו על המסע שלנו והתאהבו בכל ביס. ביקור אחד ואתם חלק מהמשפחה!
+
+### גלריה
+https://-ca21c479.zappy5.app/gallery
+גלריה חיה של הפיצות שלנו: גבינה מותכת, פטריות נוטפות וזיתים מבריקים. כל תמונה מספרת סיפור של טעם. היכנסו ופתחו את התיאבון!
+
+### צור קשר
+https://-ca21c479.zappy5.app/contact
+יש לכם שאלה או חשק לפיצה? צרו קשר עם פיצה של שוריק להזמנות, אירועים או סתם להגיד שלום. אנחנו תמיד זמינים לפנק אתכם בטעם מושלם!
+
+### תודה שפניתם אלינו | פיצה של שוריק
+https://-ca21c479.zappy5.app/thank-you
+פיצה של שוריק - תודה שפניתם אלינו | פיצה של שוריק
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ca21c479.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ca21c479.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ca21c479.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-ca21c479.zappy5.app/contact
+- Endpoint: https://-ca21c479.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיצה של שוריק
+A pizza restaurant called 'Shoorik's Pizza' with a warm and inviting personality. The menu highlights specialty toppings including mushrooms and a variety of olives (black and green). The brand has a casual, appetizing vibe with a focus on quality ingredients and a visually appealing presentation.
+
+## Target Audience
+- משפחות עם ילדים
+- סטודנטים ומבוגרים צעירים
+- עובדי משרדים ואנשי מקצוע
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ca21c479.zappy5.app/sitemap.xml
+- Robots: https://-ca21c479.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ca21c479.zappy5.app/llms-full.txt
